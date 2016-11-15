@@ -1,0 +1,80 @@
+body {
+	font-family: Arial, sans-serif;
+	width: 600px;
+	margin: auto;
+}
+
+
+input[type=text] {
+	width: 300px;
+}
+
+label {
+	margin-right: 10px;
+	font-weight: bold;
+	width: 80px;
+	float: left;
+	padding: 10px
+	text-align: left
+}
+
+textarea {
+	display: block;
+	width: 500px;
+	height: 200px;
+}
+
+h2, hr {
+	margin: 0px;
+	padding: 0px;
+}
+
+.wrapper {
+	width: 600px;
+	margin: 0 auto 0 auto 0
+}
+
+.heading {
+	height:100px;
+	padding: 5px;
+	text-align: center;
+	font-family: impact;
+	font-size: 30pt;
+	vertical-align: middle;	
+}
+
+.navigation {
+	height: 30px;
+	text-align: center;
+}
+
+.content {
+	min-height: 550px;
+	width: 600px;
+	float: left;
+}
+
+.footer {
+	clear: both;
+	height: 20px;
+	text-align: right;
+	padding: 10px;
+}
+
+
+
+#banner {
+	background: purple;
+	padding: 5px;
+	color: white;	
+	margin-bottom: 5px;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
